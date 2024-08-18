@@ -1,0 +1,2 @@
+tsc para compilar el codigo TS
+node dist/index.js para ejecutar codigo ya compilado
